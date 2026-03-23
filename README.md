@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**zfirmo/zfirmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Science Student** at the Federal University of Alagoas (UFAL), Brazil. 🇧🇷  
+Passionate about software architecture, I focus my studies on **Backend Development** and **Database Management**. I enjoy solving complex problems and building scalable, data-driven applications.
 
-Here are some ideas to get you started:
+### 🔙🔚 About Me
+- Currently pursuing a B.Sc. in Computer Science at **UFAL**.
+- Deeply interested in **Database Design**, SQL optimization, and Distributed Systems.
+- Looking for international opportunities to collaborate on innovative projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🛠 Tech Stack
+- **Languages:** Python, C, SQL.
+- **Databases:** PostgreSQL, MySQL (Learning NoSQL/MongoDB).
+- **Tools & Platforms:** Git, GitHub, Linux.
+
+### 📊 GitHub Stats
+![Saulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zfirmo&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zfirmo&layout=compact&theme=dark)
+
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/z-firmo/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saulo.nascimento@arapiraca.ufal.br)
