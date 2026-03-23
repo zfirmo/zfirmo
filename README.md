@@ -14,10 +14,6 @@ Passionate about software architecture, I focus my studies on **Backend Developm
 - **Databases:** PostgreSQL, MySQL (Learning NoSQL/MongoDB).
 - **Tools & Platforms:** Git, GitHub, Linux.
 
-### 📊 GitHub Stats
-![Saulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zfirmo&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zfirmo&layout=compact&theme=dark)
-
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/z-firmo/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saulo.nascimento@arapiraca.ufal.br)
