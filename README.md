@@ -1,18 +1,19 @@
 # Hi there 👋
 
 I am a **Computer Science Student** at the Federal University of Alagoas (UFAL), Brazil. 🇧🇷  
-Passionate about software architecture, I focus my studies on **Backend Development** and **Database Management**. I enjoy solving complex problems and building scalable, data-driven applications.
+Passionate about software architecture, I focus my studies on Backend Development and Database Management. I enjoy solving complex problems and building scalable, data-driven applications.
 
 ### 🔙🔚 About Me
-- Currently pursuing a B.Sc. in Computer Science at **UFAL**.
-- Deeply interested in **Database Design**, SQL optimization, and Distributed Systems.
+- Currently pursuing a B.Sc. in Computer Science at UFAL.
+- Deeply interested in Database Design, SQL optimization, and Distributed Systems.
 - Looking for international opportunities to collaborate on innovative projects.
 
 
-### 🛠 Tech Stack
-- **Languages:** Python, C, SQL.
-- **Databases:** PostgreSQL, MySQL (Learning NoSQL/MongoDB).
+### Tech Stack
+- **Languages:** Python, SQL, HTML, CSS.
+- **Databases:** PostgreSQL, MySQL.
 - **Tools & Platforms:** Git, GitHub, Linux.
+- **Containerization:** Docker
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/z-firmo/)
